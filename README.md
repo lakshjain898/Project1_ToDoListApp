@@ -86,7 +86,6 @@ To install Python, visit the [Python website](https://www.python.org/).
 
 ---
 
-
 ## Customization
 
 You can easily customize the app to meet your needs:
